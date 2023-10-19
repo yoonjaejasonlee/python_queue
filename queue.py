@@ -13,6 +13,7 @@ class Queue:
             dequeue_object = self.queue[0]
             self.queue = self.queue[1:]
 
+
         return dequeue_object
 
     def peek(self):

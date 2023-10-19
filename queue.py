@@ -14,6 +14,7 @@ class Queue:
             self.queue = self.queue[1:]
             print("hi")
             print(2)
+            print(4)
             print(3)
 
 

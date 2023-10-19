@@ -13,6 +13,9 @@ class Queue:
             dequeue_object = self.queue[0]
             self.queue = self.queue[1:]
             print("hi")
+            print(2)
+
+
 
         return dequeue_object
 

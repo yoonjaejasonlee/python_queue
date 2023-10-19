@@ -12,7 +12,7 @@ class Queue:
         else:
             dequeue_object = self.queue[0]
             self.queue = self.queue[1:]
-
+            print("hi")
 
         return dequeue_object
 

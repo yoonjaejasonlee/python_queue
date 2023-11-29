@@ -39,3 +39,5 @@ class Queue:
     print("test test change")
 
     print("more changes no no ")
+
+    print(123)

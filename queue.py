@@ -40,4 +40,4 @@ class Queue:
 
     print("more changes no no ")
 
-    print(1234)
+    print(123456)
